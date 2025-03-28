@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-28T15:48:13 IST" name="Default suite" finished-at="2025-03-28T15:48:48 IST" duration-ms="34489">
+    <groups>
+    </groups>
+    <test started-at="2025-03-28T15:48:13 IST" name="Default test" finished-at="2025-03-28T15:48:48 IST" duration-ms="34489">
+      <class name="linkedin_challenge_testng.day_28">
+        <test-method signature="chromebrowser()[pri:1, instance:linkedin_challenge_testng.day_28@3a93b025]" started-at="2025-03-28T15:48:13 IST" name="chromebrowser" finished-at="2025-03-28T15:48:29 IST" duration-ms="15263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromebrowser -->
+        <test-method signature="item_1()[pri:2, instance:linkedin_challenge_testng.day_28@3a93b025]" started-at="2025-03-28T15:48:29 IST" name="item_1" finished-at="2025-03-28T15:48:37 IST" duration-ms="8358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- item_1 -->
+        <test-method signature="cart()[pri:3, instance:linkedin_challenge_testng.day_28@3a93b025]" started-at="2025-03-28T15:48:37 IST" name="cart" finished-at="2025-03-28T15:48:41 IST" duration-ms="4298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="checkout()[pri:4, instance:linkedin_challenge_testng.day_28@3a93b025]" started-at="2025-03-28T15:48:41 IST" name="checkout" finished-at="2025-03-28T15:48:48 IST" duration-ms="6515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+      </class> <!-- linkedin_challenge_testng.day_28 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
